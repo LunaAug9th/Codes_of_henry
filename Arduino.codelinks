@@ -6,3 +6,5 @@ https://app.arduino.cc/sketches/e59e65a6-092c-482c-99f3-4b07a106fc9b?view-mode=p
 
 PinOutput_Controller:
 https://app.arduino.cc/sketches/58edf4f6-14b0-42d4-a31f-dad0e0cfc627?view-mode=preview
+2~13 is Digital 14~19 is Analog
+ 3, 5, 6, 9, 10, 11 is PWN
