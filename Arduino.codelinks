@@ -8,3 +8,7 @@ PinOutput_Controller:
 https://app.arduino.cc/sketches/58edf4f6-14b0-42d4-a31f-dad0e0cfc627?view-mode=preview
 2~13 is Digital 14~19 is Analog
  3, 5, 6, 9, 10, 11 is PWN
+
+PWNpin_frequency-generator:
+https://app.arduino.cc/sketches/21587779-0623-437e-8f4b-e7eccd591f37?view-mode=preview
+you can only use PWN pins(3, 5, 6, 9, 10, 11)
