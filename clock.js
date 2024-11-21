@@ -1,6 +1,6 @@
-var start = Date.now();
-var now = Date.now() - start;
-var minus = 0; // 0으로 초기화
+let start = Date.now();
+var now = 0;
+var minus = 0;
 var Subtracted = 0;
 var Perfection = 0;
 
