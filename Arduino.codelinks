@@ -1,8 +1,8 @@
 PinOutput_Controller:
-https://app.arduino.cc/sketches/58edf4f6-14b0-42d4-a31f-dad0e0cfc627?view-mode=preview
-2~13 is Digital 14~19 is Analog
+ https://app.arduino.cc/sketches/7f71c97e-ff6e-4678-91dd-8eb251d0f701?view-mode=preview
+ 2~13 is Digital 14~19 is Analog
  3, 5, 6, 9, 10, 11 is PWN
 
 PWNpin_frequency-generator:
-https://app.arduino.cc/sketches/ed174145-5060-4ba8-bff9-ec61d795d75e?view-mode=preview
-you can only use PWN pins(3, 5, 6, 9, 10, 11)
+ https://app.arduino.cc/sketches/ed174145-5060-4ba8-bff9-ec61d795d75e?view-mode=preview
+ you can only use PWN pins(3, 5, 6, 9, 10, 11)
