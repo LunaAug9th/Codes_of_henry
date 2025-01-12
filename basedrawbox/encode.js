@@ -52,7 +52,7 @@ function stringToBase128(input) {
 }
 
 // Example usage
-const inputString = "Meow";
+const inputString = process.env.INPUT;
 const encodedString = stringToBase128(inputString);
 console.log("Input:", inputString);
 console.log("Encoded:", encodedString);

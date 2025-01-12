@@ -52,6 +52,6 @@ function base128ToString(encoded) {
 }
 
 // Example usage
-const encodedString = "┻┳╙╮"; // Use the Base128-encoded string you want to decode
+const encodedString = process.env.ENCODEDINPUT; // Use the Base128-encoded string you want to decode
 const decodedString = base128ToString(encodedString);
 console.log("Decoded:", decodedString);
